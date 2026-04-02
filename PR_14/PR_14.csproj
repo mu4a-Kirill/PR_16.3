@@ -280,6 +280,8 @@
     <Content Include="Images\Ножи.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Resource Include="Images\Обозреватель тестов.jpg" />
+    <Resource Include="Images\Пользователи.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\Оппенгеймер.jpg">

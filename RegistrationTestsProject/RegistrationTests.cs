@@ -67,7 +67,6 @@ namespace RegistrationTestsProject
         public void Register_DuplicateLogin_Test()
         {
             var regWindow = new RegistraciyaWindow();
-            // Предполагаем, что в БД уже есть пользователь с логином "ivanov"
             bool result = regWindow.Register("ivanov", "pass", "Имя", "Фамилия", out string error);
             Assert.IsFalse(result);
             Assert.AreEqual("Пользователь с таким логином уже существует", error);
