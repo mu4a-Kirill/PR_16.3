@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CaptchaTests/CaptchaTests.csproj" Id="cc8730c1-6588-4972-996b-46a8bd6d7218" />
+  <Project Path="PR_14/PR_14.csproj" Id="0825862a-9834-4741-aaf1-e84775652710" />
+  <Project Path="RegistrationTestsProject/RegistrationTestsProject.csproj" Id="41765c06-8252-4c4d-865d-521e90396567" />
+  <Project Path="UnitTestProject/UnitTestProject.csproj" Id="43692aff-e417-4b63-b523-44f211b588a2" />
+</Solution>
